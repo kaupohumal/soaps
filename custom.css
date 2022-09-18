@@ -1,0 +1,108 @@
+.lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+    stroke-width: 2;
+}
+
+.lnr-cart {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.lnr-magnifier {
+    color: #000000;   
+}
+
+.nav-item {
+    margin-right: 2em;
+}
+
+section {
+    margin-top: 40px;
+}
+
+.h {
+    text-align: center;
+}
+
+.card-body {
+    align-content: center;
+}
+
+footer {
+    margin-top: 60px;
+    padding: 1em;
+}
+
+.jumbotron {
+    padding: 10px;
+    background: #fcf7f8;
+    margin-left: 30px;
+}
+
+.pay-button {
+    margin-top: 50px;
+}
+
+.badge {
+    margin-left: 20px;
+}
+
+.about-text {
+    width: 40%;
+    margin: auto;
+}
+
+.about-picture {
+    width: 40%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.about {
+    padding: 10px;
+}
+
+.about-header {
+    padding-bottom: 50px;
+    margin-left: 30px;
+}
+
+ footer ul {
+     margin-top: auto;
+     float: left;
+     padding-left: 0;
+     list-style-type: none;
+     justify-content: center;
+ }
+
+.footer-sm {
+    float: right;
+    margin-top: 30px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
